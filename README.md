@@ -51,7 +51,7 @@ This project focuses on developing essential **IaC skills** that are crucial for
 
 4. **Practice with Tutorials**  
    Try hands-on tutorials to write Terraform configurations for common use cases:  
-   - [Terraform Tutorial for Google Cloud](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started)  
+   - [Terraform Tutorial for AWS](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)  
 
 ---
 
